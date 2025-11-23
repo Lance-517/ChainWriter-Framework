@@ -1,8 +1,8 @@
-[繁體中文](#chainwriter-AI生態鏈-繁體中文) | [English](#chainwriter-framework-english)
+[繁體中文](#chainwriter-AI生態鏈-繁體中文) | [English](#ChainWriter: The AI Ecosystem-english)
 
 ***
 
-## ChainWriter 框架 (繁體中文)
+## ChainWriter: AI生態鏈 (繁體中文)
 
 **一個旨在征服人工智慧「聖杯」的寫作框架：同時實現完美的對齊與無限的創造力。**
 
