@@ -145,6 +145,7 @@ ChainWriter框架最深遠的成就之一，是系統性地生成「動態情感
     *   [風格稿B (展示)](https://github.com/Lance-517/ChainWriter-Framework/blob/main/chapter_32_style_B.md )
     *   [風格稿C (選定為最終編輯)](https://github.com/Lance-517/ChainWriter-Framework/blob/main/chapter_32_style_C.md )
 *   **[第四階段：最終定稿](https://github.com/Lance-517/ChainWriter-Framework/blob/main/chapter_32_final.md )**
+*   **[比較版本：最終定稿 (無複合情感標籤)](https://github.com/Lance-517/ChainWriter-Framework/blob/main/chapter_32_final_no_composite_tags.md )**
 *   **[特別展示：編輯AI的解釋](https://github.com/Lance-517/ChainWriter-Framework/blob/main/editor_ai_explanation.md )**
 
 ***
