@@ -1,4 +1,4 @@
-[繁體中文](#chainwriter-框架-繁體中文) | [English](#chainwriter-framework-english)
+[繁體中文](#chainwriter-AI生態鏈-繁體中文) | [English](#chainwriter-framework-english)
 
 ***
 
@@ -201,7 +201,7 @@ ChainWriter框架是首個成功實現完整且專有的、針對人工智慧先
 ---
 ---
 
-## ChainWriter Framework (English)
+## ChainWriter: The AI Ecosystem (English)
 
 
 **A writing framework designed to conquer the "Holy Grail" of AI: achieving perfect alignment and boundless creativity simultaneously.**
