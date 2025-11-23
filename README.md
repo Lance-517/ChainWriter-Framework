@@ -345,6 +345,7 @@ As previously noted, the initial Outline and First Draft files linked below are 
     *   [Style Draft B (Demonstration)](https://github.com/Lance-517/ChainWriter-Framework/blob/main/chapter_32_style_B.md )
     *   [Style Draft C (Chosen for Final Edit)](https://github.com/Lance-517/ChainWriter-Framework/blob/main/chapter_32_style_C.md )
 *   **[Phase 4: Final Manuscript](https://github.com/Lance-517/ChainWriter-Framework/blob/main/chapter_32_final.md )**
+*   **[Comparative Version: Final Manuscript (No Composite Emotion Tags)](https://github.com/Lance-517/ChainWriter-Framework/blob/main/chapter_32_final_no_composite_tags.md )**
 *   **[Special Exhibit: The Editor AI's Explanation](https://github.com/Lance-517/ChainWriter-Framework/blob/main/editor_ai_explanation.md )**
 
 ---
