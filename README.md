@@ -101,6 +101,8 @@ ChainWriter框架最深遠的成就之一，是系統性地生成「動態情感
 
 雖然我們無法展示觸發此過程的專有標籤，但此解釋旨在闡明，最終輸出中豐富的情感深度，是ChainWriter框架核心技術直接且系統性的結果，而非隨機或手動干預的產物。這代表了一場革命性的轉變：從**模仿情感**到**系統性地生成情感本身**。
 
+**比較分析的說明：** 為了進一步展示「綜合情緒標籤」的影響，提供了一份額外的最終稿，該稿由相同的**大綱AI>初稿AI>風格校對AI>最終文本校對AI**工作流程產生。這個比較版本的關鍵差異在於整個製作過程中刻意沒有使用 **「複合情緒標籤」**。
+
 ***
 
 ### 5. 架構：3+1 混合模型
@@ -298,7 +300,10 @@ For instance, a single moment in the internal, unredacted manuscript reveals a c
 
 While we cannot display the proprietary tags that trigger this process, this explanation serves to clarify that the rich emotional depth in the final output is a direct, systematic result of the ChainWriter framework's core technology, not a product of random chance or manual intervention. This represents a revolutionary shift from **imitating emotion** to **systematically generating emotion itself**.
 
-***
+**Note on Comparative Analysis:**
+For further demonstration of the "Composite Emotion Tags'" impact, an additional final draft, generated through the identical Outline > First Draft > Style Proofreading > Final Text Proofreading workflow, was provided. The key difference in this comparative version is the deliberate absence of "Composite Emotion Tags" throughout its creation process.
+
+---
 
 ## 5. Architecture: The 3+1 Hybrid Model
 
