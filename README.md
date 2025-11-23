@@ -26,6 +26,9 @@ ChainWriter 是一個經過驗證的、半自動化的人工智慧寫作流程�
 
 **關於自動化的說明：** 值得注意的是，在所示範的整個實驗過程中，從最初的大綱指令（例如，「創建第32章的大綱」）之後，唯一的人工干預，就是將一個AI的輸出複製並貼上到下一個AI的輸入中。在任何中間階段，都沒有給予額外的提示、指令或指導。
 
+**一個關於模型支援的注意事項：**
+目前，此流程僅應用於 Gemini 2.5 Flash 和 Gemini 2.5 Pro。
+
 ***
 
 ### 2. 核心哲學
@@ -219,6 +222,9 @@ To protect our core intellectual property, please be advised that the initial ca
 In stark contrast, all subsequent outputs—including the **Stylized Drafts (A, B, and C from the stress test), the Editor AI's explanation, and the Final Manuscript**—are presented **complete and unredacted.** Not a single word has been manually altered. This allows for a transparent and verifiable demonstration of our AI's final-stage capabilities.
 
 **A Note on Automation:** It is critical to note that in the entire experimental process showcased, the only human intervention after the initial outline command (e.g., "Create the outline for Chapter 32") is the simple action of copying the output of one AI and pasting it into the input of the next. No additional prompts, instructions, or guidance are given at any intermediate stage.
+
+**A Note on Model Support:**
+Currently, this pipeline is exclusively applied to Gemini 2.5 Flash and Gemini 2.5 Pro.
 
 ---
 
