@@ -202,6 +202,9 @@ This is an invitation to begin a high-level, confidential dialogue about the fut
 ---
 ---
 
+[English](#en-version) | [繁體中文](#zh-version)
+
+***
 
 <a id="zh-version"></a>
 ## ChainWriter：AI 生態鏈 (繁體中文)
