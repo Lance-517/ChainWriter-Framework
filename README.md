@@ -1,4 +1,4 @@
-[繁體中文](#chainwriter-框架-繁體中文) | [English](#chainwriter-framework-english)
+[繁體中文](#chainwriter-ai生態鏈-繁體中文) | [English](#chainwriter-the-ai-ecosystem-english)
 
 ***
 
