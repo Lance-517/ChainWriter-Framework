@@ -1,5 +1,8 @@
-[繁體中文](#chainwriter-ai生態鏈-繁體中文) | [English](#chainwriter-the-ai-ecosystem-english)
+[English](#en-version) | [繁體中文](#zh-version)
 
+***
+
+<a id="en-version"></a>
 ## ChainWriter: The AI Ecosystem (English)
 
 **A writing framework designed to conquer the "Holy Grail" of AI: achieving perfect alignment and boundless creativity simultaneously.**
