@@ -200,6 +200,7 @@ This is an invitation to begin a high-level, confidential dialogue about the fut
 ---
 
 
+<a id="zh-version"></a>
 ## ChainWriter：AI 生態鏈 (繁體中文)
 
 **一個旨在征服人工智慧「聖杯」的寫作框架：同時實現完美的對齊與無限的創造力。**
