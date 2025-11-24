@@ -154,8 +154,8 @@ ChainWriter框架最深遠的成就之一，是系統性地生成「動態情感
 
 「核心集成單元」中的三個AI共享存取以下的「創意聖經」，這是實現100%核心對齊的基石。此處提供的版本已為保護專有方法而經過刪節。
 
-*   **[世界觀架構](https://github.com/Lance-517/ChainWriter-Framework/blob/main/bible_world_architecture.md )**：宇宙的完整世界觀設定與核心原則。
-*   **[第二部：總綱](https://github.com/Lance-517/ChainWriter-Framework/blob/main/bible_part2_general_outline.md )**：系列第二部的主要故事弧與情節結構。
+*   **[世界觀架構](https://github.com/Lance-517/ChainWriter-Framework/blob/main/bible_world_architecture.md )**：完整世界觀設定與核心原則。
+*   **[第二部：總綱](https://github.com/Lance-517/ChainWriter-Framework/blob/main/bible_part2_general_outline.md )**：第二部的主要故事弧與情節結構。
 *   **[第二部：第21-31章摘要](https://github.com/Lance-517/ChainWriter-Framework/blob/main/bible_part2_ch21-31_summary.md )**：前續章節的詳細摘要。
 *   **[第二部：第30-31章全文](https://github.com/Lance-517/ChainWriter-Framework/blob/main/bible_part2_ch30-31_full_text.md )**：參考章節的完整手稿。
 
